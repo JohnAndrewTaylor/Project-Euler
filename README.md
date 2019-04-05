@@ -8,6 +8,7 @@ Planned improvements:
 *Disclaimer: Please do not copy this code or in any way use it to cheat on the Project Euler challenges. The content on here is only for educational use.*
 
 Project Euler Solve History:
+  - 057: 05 Apr 19 (08:11)
   - 092: 12 Sep 18 (09:38)
   - 042: 10 Sep 18 (07:54)
   - 067: 04 Jul 18 (17:47)
